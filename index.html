@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechManaus - Cadastro de Clientes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>TechManaus - Cadastro</h2>
+    <form id="cadForm">
+      <label for="nome">Nome Completo:</label>
+      <input type="text" id="nome" required placeholder="Digite o nome do cliente">
+
+      <label for="endereco">Endereço Completo:</label>
+      <input type="text" id="endereco" required placeholder="Rua, Número, Bairro, Cidade">
+
+      <button type="submit">Cadastrar Cliente</button>
+    </form>
+
+    <h3>Clientes Cadastrados</h3>
+    <ul id="listaClientes"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
