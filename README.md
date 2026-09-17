@@ -19,4 +19,4 @@ Recomendamos a **AWS (Amazon Web Services)**):
 | Izaias | Desenvolvimento HTML/CSS e estruturação dos formulários |
 | Rodrigo | Desenvolvimento, Lógica em JavaScript |
 | Diego | Gerenciamento do Git, criação das branches (`dev`/`main`) e merge |
-| Arlyson | Redação do README, documentação de DevOps e escolha da Nuvem |
+| Arlyson | Redação e atualização do README, documentação de DevOps e escolha da Nuvem |
