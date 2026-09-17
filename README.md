@@ -1,5 +1,14 @@
 # TechManaus - Sistema de Cadastro de Clientes
-## Recomenda��o de Nuvem
-Utiliza��o da AWS em modelo PaaS para alta disponibilidade e facilidade de deploy.
-## Ciclo DevOps
-Itera��es com Git, branches dev/main e simula��o de automa��o de entrega cont�nua.
+Projeto acadêmico de DevOps (ESBAM)
+## 1. Sobre 
+Aplicação web responsiva para cadastro e listagem de clientes em tempo real, desenvolvida com HTML5, CSS3 e JavaScript.
+
+## 2. Recomendação de Nuvem para a TechManaus
+Recomendamos a **AWS (Amazon Web Services)**):
+* **Por quê?** É a maior plataforma de computação em nuvem do mundo. Reduz drasticamente custos com infraestrutura física, oferece escalabilidade, economia e segurança avançada.
+
+## 3. Aplicação do Ciclo DevOps
+* **Plan & Code:** Desenvolvimento modular da interface e scripts.
+* **Build & Test:** Validação local de componentes e codificação UTF-8.
+* **Release & Deploy:** Controle de versão com Git, gerenciamento de branches (`dev` para desenvolvimento e `main` para produção) e simulação de deploy via merge e GitHub Pages.
+* **Operate & Monitor:** Publicação contínua da interface acessível para usuários finais.
