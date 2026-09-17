@@ -16,7 +16,7 @@ Recomendamos a **AWS (Amazon Web Services)**):
 
 | Nome do Integrante | Responsabilidade no Projeto |
 | :--- | :--- |
-| Izaias | Desenvolvimento HTML/CSS e estruturação dos formulários |
+| Izaias Moreira | Desenvolvimento HTML/CSS e estruturação dos formulários |
 | Rodrigo | Desenvolvimento, Lógica em JavaScript |
 | Diego | Gerenciamento do Git, criação das branches (`dev`/`main`) e merge |
 | Arlyson | Redação e atualização do README, documentação de DevOps e escolha da Nuvem |
