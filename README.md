@@ -12,3 +12,11 @@ Recomendamos a **AWS (Amazon Web Services)**):
 * **Build & Test:** Validação local de componentes e codificação UTF-8.
 * **Release & Deploy:** Controle de versão com Git, gerenciamento de branches (`dev` para desenvolvimento e `main` para produção) e simulação de deploy via merge e GitHub Pages.
 * **Operate & Monitor:** Publicação contínua da interface acessível para usuários finais.
+##  Integrantes e Responsabilidades
+
+| Nome do Integrante | Responsabilidade no Projeto |
+| :--- | :--- |
+| Izaias | Desenvolvimento HTML/CSS e estruturação dos formulários |
+| Rodrigo | Desenvolvimento, Lógica em JavaScript |
+| Diego | Gerenciamento do Git, criação das branches (`dev`/`main`) e merge |
+| Arlyson | Redação do README, documentação de DevOps e escolha da Nuvem |
